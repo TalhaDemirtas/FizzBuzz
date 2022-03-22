@@ -14,3 +14,6 @@ Asg_1
     print the rest of the numbers unchanged.
 
     Output each value on a separate line.
+
+
+ Let's start coding this assignment...
